@@ -1,6 +1,9 @@
 # NLP
 My NLP tasks
 
+https://github.com/LIAAD/yake
+https://github.com/allenai/scispacy
+
 Abstract
 In this notebook, I use a simple logistic regression classifier on a dataset of 10,000 tweets to predict whether the tweet refers to a true "disaster" event, or whether the tweet is irrelevant. I focus on the interpretability of simple classification models and what that means for text data. I look at a few methods of creating text embeddings for NLP tasks and explain the use and demonstrate the significant advantages of incorporating semantic meaning into NLP tasks using models such as Word2Vec.
 

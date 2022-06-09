@@ -16,3 +16,4 @@ spaCy from: https://github.com/explosion/spaCy
 
 scispaCy from: https://github.com/allenai/scispacy
 
+Pretrained Models from sentence-transformers: https://www.sbert.net/docs/pretrained_models.html

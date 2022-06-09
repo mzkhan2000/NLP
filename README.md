@@ -4,6 +4,8 @@ My links for the NLP tasks
 
 BERT from: https://github.com/google-research/bert
 
+BERT pretrained model: https://github.com/google-research/bert#pre-trained-models
+
 KeyBERT from: https://github.com/MaartenGr/KeyBERT
 
 Word2Vec from: https://code.google.com/archive/p/word2vec/

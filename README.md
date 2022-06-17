@@ -18,4 +18,4 @@ spaCy from: https://github.com/explosion/spaCy
 
 scispaCy from: https://github.com/allenai/scispacy
 
-Sentence-transformers Pretrained Models from: https://www.sbert.net/docs/pretrained_models.html
+SBERT pretrained model or Sentence-transformers Pretrained Models from: https://www.sbert.net/docs/pretrained_models.html

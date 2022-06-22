@@ -8,7 +8,7 @@ BERT pretrained model: https://github.com/google-research/bert#pre-trained-model
 
 RoBERTa : https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.md
 
-https://huggingface.co/docs/transformers/model_doc/roberta
+RoBERTa from huggingface: https://huggingface.co/docs/transformers/model_doc/roberta
 
 KeyBERT from: https://github.com/MaartenGr/KeyBERT
 

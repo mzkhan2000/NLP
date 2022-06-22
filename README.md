@@ -22,4 +22,10 @@ SBERT pretrained model or Sentence-transformers Pretrained Models from: https://
 
 Third party NLP models in the Elastic Stack: https://www.elastic.co/guide/en/machine-learning/master/ml-nlp-model-ref.html
 
-Visualize Attention in NLP Models: https://github.com/jessevig/bertviz
+HuggingFace - The AI community building the future: https://huggingface.co/
+
+HuggingFace -Transfermers: https://huggingface.co/docs/transformers/index
+
+HuggingFace -Models: https://huggingface.co/models
+
+BertViz - Visualize Attention in NLP Models: https://github.com/jessevig/bertviz

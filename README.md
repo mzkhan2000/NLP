@@ -21,3 +21,5 @@ scispaCy from: https://github.com/allenai/scispacy
 SBERT pretrained model or Sentence-transformers Pretrained Models from: https://www.sbert.net/docs/pretrained_models.html
 
 Third party NLP models in the Elastic Stack: https://www.elastic.co/guide/en/machine-learning/master/ml-nlp-model-ref.html
+
+Visualize Attention in NLP Models: https://github.com/jessevig/bertviz

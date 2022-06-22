@@ -6,6 +6,10 @@ BERT from: https://github.com/google-research/bert
 
 BERT pretrained model: https://github.com/google-research/bert#pre-trained-models
 
+RoBERTa : https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.md
+
+https://huggingface.co/docs/transformers/model_doc/roberta
+
 KeyBERT from: https://github.com/MaartenGr/KeyBERT
 
 Word2Vec from: https://code.google.com/archive/p/word2vec/

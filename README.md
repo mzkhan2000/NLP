@@ -30,6 +30,8 @@ HuggingFace - The AI community building the future: https://huggingface.co/
 
 HuggingFace -Transfermers: https://huggingface.co/docs/transformers/index
 
+HuggingFace -Transfermers from Github: https://github.com/huggingface/transformers
+
 HuggingFace -Models: https://huggingface.co/models
 
 BertViz - Visualize Attention in NLP Models: https://github.com/jessevig/bertviz

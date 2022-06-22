@@ -1,5 +1,7 @@
 # RoBERTa: A Robustly Optimized BERT Pretraining Approach
 
+copy on 22 june 2022 from: https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.md
+
 https://arxiv.org/abs/1907.11692
 
 ## Introduction

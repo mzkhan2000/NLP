@@ -36,3 +36,5 @@ HuggingFace -Transfermers from Github: https://github.com/huggingface/transforme
 HuggingFace -Models: https://huggingface.co/models
 
 BertViz - Visualize Attention in NLP Models: https://github.com/jessevig/bertviz
+
+LSTM - Understanding LSTM Networks: http://colah.github.io/posts/2015-08-Understanding-LSTMs/

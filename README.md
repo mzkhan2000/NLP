@@ -1,5 +1,6 @@
 # NLP
-My links for the NLP tasks
+
+My links for models and libraries for the NLP downstrem tasks
 
 
 BERT from: https://github.com/google-research/bert

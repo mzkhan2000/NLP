@@ -40,3 +40,7 @@ BertViz - Visualize Attention in NLP Models: https://github.com/jessevig/bertviz
 LSTM - Understanding LSTM Networks: http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 NLP models from Papers-with-code: https://paperswithcode.com/methods/area/natural-language-processing
+
+Semantic Textual Similarity: https://paperswithcode.com/task/semantic-textual-similarity
+
+

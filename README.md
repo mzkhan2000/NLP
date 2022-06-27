@@ -45,4 +45,4 @@ NLP models from Papers-with-code: https://paperswithcode.com/methods/area/natura
 
 Semantic Textual Similarity: https://paperswithcode.com/task/semantic-textual-similarity
 
-
+Hedwig: This repo contains PyTorch deep learning models for document classification, implemented by the Data Systems Group at the University of Waterloo: https://github.com/castorini/hedwig

@@ -7,6 +7,8 @@ BERT from: https://github.com/google-research/bert
 
 BERT pretrained model: https://github.com/google-research/bert#pre-trained-models
 
+PyTorch Pretrained Bert: https://github.com/huggingface/transformers/tree/v0.4.0
+
 RoBERTa : https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.md
 
 RoBERTa from huggingface: https://huggingface.co/docs/transformers/model_doc/roberta

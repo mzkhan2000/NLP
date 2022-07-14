@@ -47,5 +47,5 @@ Semantic Textual Similarity: https://paperswithcode.com/task/semantic-textual-si
 
 Hedwig: This repo contains PyTorch deep learning models for document classification, implemented by the Data Systems Group at the University of Waterloo: https://github.com/castorini/hedwig
 
-keyword extraction method by combining the Rapid Automatic Keyword Extraction (RAKE) algorithm withthe NLTK toolkit
+Keyword extraction method by combining the Rapid Automatic Keyword Extraction (RAKE) algorithm withthe NLTK toolkit
 gensim.summarization import keywords: https://github.com/csurfer/rake-nltk

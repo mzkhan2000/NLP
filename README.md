@@ -49,3 +49,6 @@ Hedwig: This repo contains PyTorch deep learning models for document classificat
 
 Keyword extraction method by combining the Rapid Automatic Keyword Extraction (RAKE) algorithm withthe NLTK toolkit
 gensim.summarization import keywords: https://github.com/csurfer/rake-nltk
+
+Code to perform training, inference, and evaluation for 9 Topic Modeling packages
+https://github.com/d2klab/tomodapi
